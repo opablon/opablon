@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @opablon.
-- 👀 I’m interested in web development.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on anything that represents an opportunity to learn.
 - 📫 Reach me at twitter @opablon.
