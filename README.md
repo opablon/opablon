@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @opablon.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on anything that represents an opportunity to learn.
 - 📫 Reach me at twitter @opablon.
 
